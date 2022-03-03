@@ -19,5 +19,7 @@ Con la meta de conocer Python, también pude aprender:
 
 🌱 Continuo aprendiendo en profundidad Python, Javascript y estoy por arrancar a ver React.
 
-⚡ Fun fact: Vengo del mundo del Diseño de Imagen y Sonido, por lo que disfruto mucho de proyectos que hacen hincapié en una identidad propia y le dan importancia a la estética. 
+⚡ Fun fact: Vengo del mundo del Diseño de Imagen y Sonido, por lo que disfruto mucho de proyectos que hacen hincapié en una identidad propia y le dan importancia a la estética.
+
+Mi [Linkedin](https://www.linkedin.com/in/monseechevarria "Perfil de Linkedin")
 
